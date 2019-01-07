@@ -1,6 +1,11 @@
+/*-----------Our styles here--------*/
+
 body{
     background: linear-gradient(to left, #2f7336, #aa3a38);
 }
+
+/*-----------Login Box---------*/
+
 .loginBox{
     background-color: white;
     margin: 50px auto;
@@ -8,6 +13,9 @@ body{
     height: 470px;
     border-radius: 10px;
 }
+
+/*-----------Login Text--------*/
+
 .login{
 text-align: center;
     font-family: 'Krona One', sans-serif;
@@ -18,9 +26,14 @@ text-align: center;
 ::placeholder{
     color: lightgrey;
 }
+/*-----------Login Button---------*/
+
 .btn{
     border-radius: 20px;
 }
+
+/*-----------Socials icons section---------*/
+
 .btn-fb{
     border-radius: 50% !important;
     background-color: #3b5998;
@@ -38,3 +51,4 @@ text-align: center;
     background-color: #0082ca;
     border-radius: 50% !important;
 }
+
